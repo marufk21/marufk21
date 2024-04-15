@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Maruf Khan!
+# Hi there👋, I'm Maruf Khan!
 
 Welcome to my GitHub profile! I'm a passionate web developer on a mission to craft delightful digital experiences. With a keen eye for detail and a love for clean, efficient code, I thrive on turning ideas into reality through the power of web technologies.
 
