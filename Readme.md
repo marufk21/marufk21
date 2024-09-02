@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/yashsehgal/yashsehgal/main/media/gh-profile-banner.png" alt="banner" />
+<img src="https://repository-images.githubusercontent.com/244670818/b6823f80-6825-11eb-98ef-e1d467650183" alt="banner" />
 <h1 align="center">Hi👋 I'm Maruf!</h1>
 <img src="https://user-images.githubusercontent.com/34391629/188001276-e28ab9d6-0401-4433-a74b-42e33580edbc.svg#gh-dark-mode-only" alt="streak" />
 
