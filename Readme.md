@@ -1,14 +1,43 @@
-<img src="https://raw.githubusercontent.com/yashsehgal/yashsehgal/main/media/gh-profile-banner.png" alt="streak" />
-<h1 align="center"> I'm Maruf!</h1>
+<h1 align="center">Hey, I'm Maruf Khan 👋</h1>
 
-Welcome to my GitHub profile! I'm a passionate software developer on a mission to craft delightful digital experiences. With a keen eye for detail and a love for clean, efficient code, I thrive on turning ideas into reality through the power of web technologies.
+<p align="center">
+  <strong>Frontend-focused Full Stack Engineer</strong><br/>
+  Building fast, scalable, and user-centric web applications
+</p>
 
-## 📫 Let's Connect
+<p align="center">
+  <a href="mailto:marufkhan2002@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/marufk21">💼 LinkedIn</a> •
+  <a href="https://marufk.com">🌐 Portfolio</a> •
+  <a href="https://www.instagram.com/marufique/?igshid=1mdkhzjuv9i51">📷 Instagram</a>
+</p>
 
-I'm always open to new opportunities, collaborations, or just a friendly chat! Reach out to me via:
+---
 
-- ✉️ [mail/marufkhan2002@gmail.com](mailto:marufkhan2002@gmail.com)
-- 🔗 [linkedin/marufkhan](https://www.linkedin.com/in/marufk21)
-- 📷 [instagram/marufkhan](https://www.instagram.com/marufique/?igshid=1mdkhzjuv9i51)
+## 🚀 About Me
 
-Let's build something amazing together! 🚀
+I’m a **Frontend-heavy Full Stack Engineer** who enjoys turning complex ideas into clean, performant, and scalable products.
+
+- ⚡ Strong focus on **performance, UX, and clean architecture**
+- 🎨 From **Figma → production-ready UI**
+- 🏗️ Build scalable systems with modern frontend & backend tooling
+- 🔍 SEO-first mindset using SSR / SSG / ISR
+- 🤖 Exploring **AI-powered web experiences**
+
+I care about **code quality, maintainability, and real-world impact**.
+
+---
+
+## 🛠️ Tech Stack
+
+```ts
+const maruf = {
+  languages: ["JavaScript", "TypeScript", "Python"],
+  frontend: ["React", "Next.js", "Tailwind CSS", "React Native"],
+  state: ["Zustand", "Redux Toolkit", "TanStack Query"],
+  backend: ["Node.js", "Express", "tRPC", "GraphQL", "REST"],
+  databases: ["PostgreSQL", "MongoDB", "Firebase"],
+  tooling: ["Git", "Docker", "CI/CD", "Webpack", "Chrome DevTools"],
+  testing: ["Jest", "E2E Testing"],
+  focus: "Performance-first, AI-native web apps"
+};
