@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Maruf Khan 👋</h1>
 
 <p align="center">
-  <strong>Frontend-focused Full Stack Engineer</strong><br/>
+  <strong>Software Engineer</strong><br/>
   Building fast, scalable, and user-centric web applications
 </p>
 
