@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Software Engineer</strong><br/>
-  Building fast, scalable, and user-centric web applications
+  Building fast, scalable, and user-centric applications
 </p>
 
 <p align="center">
